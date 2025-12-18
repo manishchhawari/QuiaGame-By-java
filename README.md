@@ -1,4 +1,4 @@
-# QuiazGame-By-java
+# QuizGame-By-java
 
 Navigation Menu
 QuiaGame-By-java
