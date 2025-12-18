@@ -15,10 +15,9 @@ Create a simple JavaScript quiz game that executes entirely within the browser c
  0 Tags
  Activity
 Public repository
-hiteshkumar0226/QuiaGame-By-java
+manishchhawari/QuiaGame-By-java
 Name	
-hiteshkumar0226
-hiteshkumar0226
+Manishchhawari
 1 hour ago
 we[b dev assignment
 1 hour ago
